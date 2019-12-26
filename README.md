@@ -2,15 +2,14 @@
 
 
 ## Topics include:
-Reviewing the platforms
 
 
-Building the endpoints for the HTTP class controller
+Building the endpoints for the HTTP class controller.
 
-Creating the front-end components
+Creating the front-end components usiing react.
 
-Styling components
+Styling components with Materialize.
 
-Connecting component to the server
+Connecting component to the server.
 
-Adding server controllers
+Adding server controllers.
